@@ -3,3 +3,6 @@ image:
 
 tasks:
   - command: source ~/.bashrc
+vscode:
+  extensions:
+    - 0x9ef.vscode-vlang@0.0.8:tx1sK8exa2HLC2+NgBMmeA==
